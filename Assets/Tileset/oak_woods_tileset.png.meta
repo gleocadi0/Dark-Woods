@@ -246,9 +246,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 120
-        y: 216
-        width: 72
-        height: 96
+        y: 263
+        width: 25
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -670,7 +670,7 @@ TextureImporter:
         width: 25
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -691,7 +691,7 @@ TextureImporter:
         width: 95
         height: 46
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -712,7 +712,7 @@ TextureImporter:
         width: 48
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -720,6 +720,90 @@ TextureImporter:
       bones: []
       spriteID: 33de6761b90643f42bb40fc9355f8460
       internalID: 633195141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oak_woods_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cdb8a6d18a3e740acf25eab38233db
+      internalID: -1936686036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oak_woods_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 264
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c576aa0062848074c9585585ee84c3b8
+      internalID: -1602294808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oak_woods_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac418bb6b782cd14ba91712d50e543b1
+      internalID: 1355297139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oak_woods_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 215
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea182b0b63a6974fa95681f597ab065
+      internalID: -1846490951
       vertices: []
       indices: 
       edges: []
@@ -735,10 +819,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      oak_woods_tileset_29: -1936686036
       oak_woods_tileset_5: -1732136326
       oak_woods_tileset_18: 585317288
       oak_woods_tileset_11: 567574069
       oak_woods_tileset_2: -1493468505
+      oak_woods_tileset_31: 358665528
       oak_woods_tileset_27: 1503618977
       oak_woods_tileset_17: -996984865
       oak_woods_tileset_25: -1179465220
@@ -747,6 +833,7 @@ TextureImporter:
       oak_woods_tileset_0: 1305632439
       oak_woods_tileset_24: 935772638
       oak_woods_tileset_6: 1080219701
+      oak_woods_tileset_30: -1602294808
       oak_woods_tileset_4: 953603192
       oak_woods_tileset_28: 633195141
       oak_woods_tileset_10: -1830007448
@@ -758,6 +845,7 @@ TextureImporter:
       oak_woods_tileset_21: -1507599067
       oak_woods_tileset_22: -1133615952
       oak_woods_tileset_13: -1535844918
+      oak_woods_tileset_32: 1355297139
       oak_woods_tileset_20: -311184957
       oak_woods_tileset_8: -1050799067
       oak_woods_tileset_15: 1998652530
